@@ -52,6 +52,8 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 |------|-------------|
 | [n8n Workflow Orchestration](usecases/n8n-workflow-orchestration.md) | Delegate API calls to n8n workflows via webhooks — the agent never touches credentials, and every integration is visual and lockable. |
 | [Self-Healing Home Server](usecases/self-healing-home-server.md) | Run an always-on infrastructure agent with SSH access, automated cron jobs, and self-healing capabilities across your home network. |
+| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) | Free open-source monitoring dashboard for OpenClaw agents — token usage, session tracking, 7-day trends, multi-model support. |
+
 
 ## Productivity
 
